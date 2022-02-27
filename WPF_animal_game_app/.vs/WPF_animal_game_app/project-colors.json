@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3ad2d25-0c69-46d2-9ab2-83badf90d545": {
+      "ProjectGuid": "a3ad2d25-0c69-46d2-9ab2-83badf90d545",
+      "DisplayName": "WPF_animal_game_app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

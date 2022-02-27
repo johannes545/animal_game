@@ -1,0 +1,16 @@
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\bin\Debug\WPF_animal_game_app.exe.config
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\bin\Debug\WPF_animal_game_app.exe
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\bin\Debug\WPF_animal_game_app.pdb
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\MainWindow.g.cs
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\App.g.cs
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app_MarkupCompile.cache
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app_MarkupCompile.lref
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\MainWindow.baml
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.g.resources
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.Properties.Resources.resources
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.csproj.GenerateResource.cache
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.exe
+C:\Users\Johannes\Desktop\CSharp games\WPF_animal_game_app\WPF_animal_game_app\obj\Debug\WPF_animal_game_app.pdb
